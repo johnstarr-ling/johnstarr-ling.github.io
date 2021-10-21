@@ -6,7 +6,7 @@ theme: dev-portfolio-blog
 
 
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "johnstarr-ling.github.io"
+url: "https://johnstarr-ling.github.io"
 
 # Build settings
 markdown: kramdown
