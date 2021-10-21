@@ -4,7 +4,7 @@ email: jrs673@cornell.edu
 theme: dev-portfolio-blog
 
 
-author_name: John
+author_name: John R. Starr
 description: Welcome to my website!
 
 baseurl: "" # the subpath of your site, e.g. /blog
@@ -143,7 +143,6 @@ assets:
 plugins:
   - jekyll-minifier
 
-google_analytics: "UA-114665281-1"
 
 # Disqus Comments
 disqus:
