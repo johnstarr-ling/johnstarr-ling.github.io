@@ -1,12 +1,12 @@
 title: John R. Starr
 description: Linguistics PhD student
-email: rohitjain18005@gmail.com
+email: jrs673@cornell.edu
 theme: dev-portfolio-blog
 
 
 
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://therohitjain.com"
+url: "johnstarr-ling.github.io"
 
 # Build settings
 markdown: kramdown
