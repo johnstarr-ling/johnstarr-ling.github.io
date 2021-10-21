@@ -4,6 +4,8 @@ email: jrs673@cornell.edu
 theme: dev-portfolio-blog
 
 
+author_name: John
+description: Welcome to my website!
 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://johnstarr-ling.github.io"
@@ -11,7 +13,7 @@ url: "https://johnstarr-ling.github.io"
 # Build settings
 markdown: kramdown
 resume_url: "Resume.pdf"
-author_name: John R. Starr
+
 
 ############################################################
 # Site configuration for the Jekyll 3 Pagination Gem
