@@ -1,20 +1,17 @@
 title: John R. Starr
 description: Linguistics PhD student
+email: rohitjain18005@gmail.com
 theme: dev-portfolio-blog
 
-resume_url: "Resume.pdf"
-author_name: "John R. Starr"
 
-plugins:
-  - jekyll-seo-tag
-  - jekyll-feed
-  - jekyll-sitemap
-  - jekyll-paginate-v2
-  - jekyll-minifier
-  - jekyll-assets
-  - sprockets
-  - autoprefixer-rails
-  - jemoji
+
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://therohitjain.com"
+
+# Build settings
+markdown: kramdown
+resume_url: "Resume.pdf"
+author_name: John R. Starr
 
 ############################################################
 # Site configuration for the Jekyll 3 Pagination Gem
@@ -24,7 +21,7 @@ pagination:
   enabled: true
 
   # Set to 'true' to enable pagination debugging. This can be enabled in the site config or only for individual pagination pages
-  debug: true
+  debug: false
 
   # The default document collection to paginate if nothing is specified ('posts' is default)
   collection: "posts"
@@ -75,8 +72,6 @@ pagination:
 
 ############################################################
 
-############################################################
-# Site Configuration data for Jekyll Minifier
 jekyll-minifier:
   preserve_php: true # Default: false
   remove_spaces_inside_tags: true # Default: true
@@ -102,14 +97,12 @@ jekyll-minifier:
   preserve_patterns: # Default: (empty)
   uglifier_args: # Default: (empty)
 
-############################################################
-
 # _config.yml
 assets:
   source_maps: true
   destination: "/assets"
-  compression: false
-  gzip: false
+  compression: true
+  gzip: true
   defaults:
     integrity:
       { css, img, js }: false
@@ -145,15 +138,15 @@ assets:
     css: { autoprefixer: {} }
     img: { optim: {} }
 
-  autoprefixer:
-    browsers:
-      - "last 2 versions"
-      - "IE > 9"
+plugins:
+  - jekyll-minifier
 
-google_analytics: "UA_123456789_1"
+google_analytics: "UA-114665281-1"
 
 # Disqus Comments
 disqus:
-  # Leave shortname blank to disable comments site-wide.
-  # Disable comments for any post by adding `comments: false` to that post's YAML Front Matter.
-  shortname: my_disqus_shortname
+  shortname: rohitjain00
+
+pwa: true
+
+exclude: [vendor]
