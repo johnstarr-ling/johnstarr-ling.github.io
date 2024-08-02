@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : ""
+title                    : "NOT RINGO"
 title_separator          : "-"
 name                     : &name "John R. Starr"
 description              : &description "PhD Candidate in Linguistics @ Cornell University"
@@ -21,7 +21,7 @@ repository               : "johnstarr-ling/johnstarr-ling.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "me.jpg"
+  avatar           : "files/me.jpg"
   name             : "John R. Starr"
   pronouns         : "he/him"  
   bio              : "PhD Candidate in Linguistics @ Cornell University, focusing in computational psycholinguistics and its intersections."
