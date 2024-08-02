@@ -1,11 +1,13 @@
 ---
-title: "Talk 1 on Relevant Topic in Your Field"
+title: "Semantics reals us in: a first look at mind rhymes"
 collection: talks
 type: "Talk"
-permalink: /talks/2012-03-01-talk-1
-venue: "UC San Francisco, Department of Testing"
-date: 2012-03-01
-location: "San Francisco, California"
+permalink: /talks/hsp2022-mindrhymes
+venue: "University of California, Santa Cruz (Virtual)"
+location: "Zoom"
 ---
 
-This is a description of your talk, which is a markdown files that can be all markdown-ified like any other post. Yay markdown!
+Abstract: [Here](https://johnstarr-ling.github.io/files/abstracts/hsp2022-mindrhymes.pdf)
+
+Poster: [Here](https://johnstarr-ling.github.io/files/poster/hsp2022-mindrhymes.pdf)
+
