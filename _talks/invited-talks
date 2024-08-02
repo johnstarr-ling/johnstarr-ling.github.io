@@ -2,9 +2,7 @@
 title: "Invited Talks"
 collection: talks
 type: "Talk"
-permalink: /talks/hsp2022-mindrhymes
-venue: "University of California, Santa Cruz (Virtual)"
-location: "Zoom"
+permalink: /talks/invited-talks
 ---
 | **2024** | Pitt Python Linguistics Group | University of Pittsburgh | *What can natural language processing tell us about human language processing?* | [Slides](https://johnstarr-ling.github.io/files/slides/pyling2024.pdf)
 | **2022** | The Berkeley Phonetics, Phonology, and Psycholinguistic Forum (Phorum) | University of California, Berkeley (Virtual) | *A first look at mind rhymes* | [Slides](https://johnstarr-ling.github.io/files/slides/phorum2022.pdf)

@@ -2,9 +2,7 @@
 title: "Conference Presentations"
 collection: talks
 type: "Talk"
-permalink: /talks/hsp2022-mindrhymes
-venue: "University of California, Santa Cruz (Virtual)"
-location: "Zoom"
+permalink: /talks/confererence-presentations
 ---
 | **2024** | Architectures and Mechanisms for Language Processing (AMLaP) | *Context lets you flop and flip binomials* | [Abstract](https://johnstarr-ling.github.io/files/abstracts/amlap2024-binomials.pdf) | Poster | 
 | | Annual Meeting of the Association for Computational Linguistics (ACL) | *Semantics or spelling? Probing contextual word embeddings with orthographic noise* | Abstract | [Poster](https://johnstarr-ling.github.io/files/posters/acl2024-semorspell.pdf) | 
