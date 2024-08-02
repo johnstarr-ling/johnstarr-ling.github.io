@@ -18,4 +18,4 @@ If you email me and I don't answer right away, I'm probably busy doing one of th
 
 I'm originally from the suburbs of Philadelphia, Pennsylvania, meaning \\(John \in  \\{ \,x\, \mid \, x\, is\, a\, jaded\, and\, delusional\, Philly\, sports\, fan \\} \\).
 
-[^1]: Unrelated to the more famous [Ringo Starr](https://en.wikipedia.org/wiki/Ringo_Starr), [Patrick Star](https://en.wikipedia.org/wiki/Patrick_Star), [Antony Starr](https://en.wikipedia.org/wiki/Antony_Starr), or [the Sun](https://en.wikipedia.org/wiki/Sun).
+[^1]: Unfortunately, I am not related to the more famous [Ringo Starr](https://en.wikipedia.org/wiki/Ringo_Starr), [Patrick Star](https://en.wikipedia.org/wiki/Patrick_Star), [Antony Starr](https://en.wikipedia.org/wiki/Antony_Starr), or [the Sun](https://en.wikipedia.org/wiki/Sun).
