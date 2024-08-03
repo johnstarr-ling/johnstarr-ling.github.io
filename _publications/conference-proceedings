@@ -2,6 +2,7 @@
 title: "Conference Proceedings"
 collection: talk 
 permalink: /papers/conference-proceedings
+type: "Talk"
 ---
 
 |**2024** | Findings of the Association of Computational Linguistics | *Semantics or spellling? Probing contextual word embeddings with orthographic noise | [Paper] |
