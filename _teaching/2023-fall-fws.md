@@ -1,6 +1,6 @@
 ---
 title: | 
-   2023 Spring --  LING1100:  
+   2023 Fall --  LING1100:  
    Language, Thought, and Reality: How We're Laughter Crafters
 collection: teaching
 type: "Instructor of Record"
