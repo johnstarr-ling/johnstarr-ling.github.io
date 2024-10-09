@@ -3,7 +3,7 @@ title: |
    Fall 2022 -- CS4740/LING4744/COGST4740:  
    Natural Language Processing
 collection: teaching
-type: "Graduate Teaching Assistant"
+type: "Head Teaching Assistant"
 permalink: /teaching/2022-nlp
 venue: "Cornell University, Department of Linguistics"
 date: 2022-08-21
@@ -29,5 +29,6 @@ location: "Ithaca, NY"
 **Responsibilities**: 
 - Developing, testing, and grading homeworks and exams
 - Constructing study materials and exam questions
+- Leading undergraduate teaching assistants
 - Hosting and coordinating exam study sessions
 - Holding office hours (3hrs / week)

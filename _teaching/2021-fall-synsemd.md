@@ -28,7 +28,7 @@ location: "Ithaca, NY"
 
 
 **Responsibilities**: 
-- Grading homeworksexams
+- Grading homeworks 
 - Constructing study materials and exam questions
 - Hosting and coordinating exam study sessions
 - Holding tutorial sections (3hrs / week)
