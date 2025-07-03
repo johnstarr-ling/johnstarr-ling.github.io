@@ -1,6 +1,6 @@
 ---
 title: |
-   Fall 2021 -- LING3303:   
+   2021 Fall -- LING3303:   
    Introduction to Syntax and semantics 
 collection: teaching
 type: "Graduate Teaching Assistant"

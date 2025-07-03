@@ -1,6 +1,6 @@
 ---
 title: |
-   Fall 2022 -- CS4740/LING4744/COGST4740:  
+   2022 Fall -- CS4740/LING4744/COGST4740:  
    Natural Language Processing
 collection: teaching
 type: "Head Teaching Assistant"

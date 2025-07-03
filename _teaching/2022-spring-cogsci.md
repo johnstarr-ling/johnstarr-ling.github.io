@@ -1,6 +1,6 @@
 ---
 title: |
-   Spring 2022 -- COGST1101/CS17170/LING1170/PHIL1910:  
+   2022 Spring -- COGST1101/CS17170/LING1170/PHIL1910:  
    Introduction to Cognitive Science
 collection: teaching
 type: "Graduate Teaching Assistant"
