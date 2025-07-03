@@ -16,6 +16,8 @@ I'm currently a PhD Candidate in the [Department of Linguistics](https://linguis
 
 When I'm not doing linguistics, I'm probably doing one of the following: skipping stones in local [creek](https://www.youtube.com/watch?v=wAGi71uHm4g)s or on [Lake Cayuga](https://musique-concrete.tumblr.com/post/141057528801/on-my-boat-on-lake-cayuga), setting routes at the [local climbing gym in Ithaca](https://www.cayugaclimbs.com/), or napping with my cat Magnolia.
 
+Think you're good at data manipulation? Try [these `pandas` puzzles.](https://github.com/johnstarr-ling/pandas-puzzles).
+
 I'm originally from the suburbs of Philadelphia, Pennsylvania, meaning \\(John \in  \\{ \,x\, \mid \, x\, is\, a\, jaded\, and\, delusional\, Philly\, sports\, fan \\} \\).
 
 [^1]: Unfortunately, I am not related to the more famous [Ringo Starr](https://en.wikipedia.org/wiki/Ringo_Starr), [Patrick Star](https://en.wikipedia.org/wiki/Patrick_Star), [Antony Starr](https://en.wikipedia.org/wiki/Antony_Starr), or [the Sun](https://en.wikipedia.org/wiki/Sun).
