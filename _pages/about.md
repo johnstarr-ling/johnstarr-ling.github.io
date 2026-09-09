@@ -18,6 +18,6 @@ In my time off, I like to [skip stones](https://johnstarr-ling.github.io/files/s
 
 Think you're good at data manipulation? Try [these `pandas` puzzles.](https://github.com/johnstarr-ling/pandas-puzzles).
 
-I'm originally from the suburbs of Philadelphia, Pennsylvania, meaning \\(John \in  \\{ \,x\, \mid \, x\, is\, a\, jaded\, and\, delusional\, Philly\, sports\, fan \\} \\).
+I'm originally from the suburbs of Philadelphia, [Pennsylvania](https://johnstarr-ling.github.io/files/pa.txt), meaning \\(John \in  \\{ \,x\, \mid \, x\, is\, a\, jaded\, and\, delusional\, Philly\, sports\, fan \\} \\).
 
 [^1]: Unfortunately, I am not related to the more famous [Ringo Starr](https://en.wikipedia.org/wiki/Ringo_Starr), [Patrick Star](https://en.wikipedia.org/wiki/Patrick_Star), [Antony Starr](https://en.wikipedia.org/wiki/Antony_Starr), or [the Sun](https://en.wikipedia.org/wiki/Sun).
